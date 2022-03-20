@@ -1,1 +1,1 @@
-# recipes
+Project 3/20/22 for a HTML website covering a list of recipes.
